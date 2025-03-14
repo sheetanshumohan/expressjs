@@ -10,7 +10,7 @@ To preview the website locally:
 
 1. Install the [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) gem:
 
-   ```sh
+   ```she
    $ gem install jekyll-redirect-from
    ```
    
